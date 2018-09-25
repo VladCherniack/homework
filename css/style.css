@@ -1,0 +1,63 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+	}
+
+body{
+	width: 1025px;
+	height: 690px;
+	background-color: #f1f1f1;
+	color:  #c2c2c2;
+
+}
+
+.header {
+	
+}
+.main-div {
+	margin: 100px;
+	display: inline-block;
+	width: 815px;
+	height: 360px;
+}
+
+.people {
+	position: absolute;
+	left: 110px;
+	width:  240px;
+	height: 360px;
+}
+
+.popular{
+	position: absolute;
+	left: 390px;
+	width:  240px;
+	height: 360px;
+}
+
+.recent {
+	position: absolute;
+	left: 670px;
+	width:  240px;
+	height: 360px;
+}
+
+h2 {
+
+}
+
+li {
+	text-align: left;
+	font-size: 12px;
+	list-style: none;
+	width: 240px;
+	height: 60px;
+	border: 1px solid #fff;
+	padding: 10px;
+}
+
+li:hover {
+	background-color: #e4e4e6;
+	color: #ea939d;
+}
